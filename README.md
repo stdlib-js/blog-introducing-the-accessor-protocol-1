@@ -1,6 +1,10 @@
 # The Accessor Protocol
 
-> Source code for the blog post ["The Accessor Protocol"][post].
+> Blog post source code.
+
+To learn more about the source code in this repository, see ["The Accessor Protocol"][post].
+
+* * *
 
 ## License
 
