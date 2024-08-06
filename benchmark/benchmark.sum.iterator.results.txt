@@ -1,0 +1,133 @@
+TAP version 13
+# sum::iterator:dtype=generic,len=10
+  ---
+  iterations: 100000000
+  elapsed: 1.000082083
+  rate: 99991792.3737066
+  ...
+ok 1 benchmark finished
+# sum::iterator:dtype=generic,len=10
+  ---
+  iterations: 100000000
+  elapsed: 0.99769225
+  rate: 100231308.80288987
+  ...
+ok 2 benchmark finished
+# sum::iterator:dtype=generic,len=10
+  ---
+  iterations: 100000000
+  elapsed: 1.000799917
+  rate: 99920072.23557754
+  ...
+ok 3 benchmark finished
+# sum::iterator:dtype=generic,len=100
+  ---
+  iterations: 10000000
+  elapsed: 0.86278725
+  rate: 11590342.810466891
+  ...
+ok 4 benchmark finished
+# sum::iterator:dtype=generic,len=100
+  ---
+  iterations: 10000000
+  elapsed: 0.860162042
+  rate: 11625716.448436351
+  ...
+ok 5 benchmark finished
+# sum::iterator:dtype=generic,len=100
+  ---
+  iterations: 10000000
+  elapsed: 0.863620208
+  rate: 11579163.974356655
+  ...
+ok 6 benchmark finished
+# sum::iterator:dtype=generic,len=1000
+  ---
+  iterations: 1000000
+  elapsed: 0.786813333
+  rate: 1270949.484532947
+  ...
+ok 7 benchmark finished
+# sum::iterator:dtype=generic,len=1000
+  ---
+  iterations: 1000000
+  elapsed: 0.787595833
+  rate: 1269686.7582335216
+  ...
+ok 8 benchmark finished
+# sum::iterator:dtype=generic,len=1000
+  ---
+  iterations: 1000000
+  elapsed: 0.792083334
+  rate: 1262493.4234508208
+  ...
+ok 9 benchmark finished
+# sum::iterator:dtype=generic,len=10000
+  ---
+  iterations: 100000
+  elapsed: 0.78169825
+  rate: 127926.60083350576
+  ...
+ok 10 benchmark finished
+# sum::iterator:dtype=generic,len=10000
+  ---
+  iterations: 100000
+  elapsed: 0.782077333
+  rate: 127864.59315526536
+  ...
+ok 11 benchmark finished
+# sum::iterator:dtype=generic,len=10000
+  ---
+  iterations: 100000
+  elapsed: 0.782036458
+  rate: 127871.27630307998
+  ...
+ok 12 benchmark finished
+# sum::iterator:dtype=generic,len=100000
+  ---
+  iterations: 10000
+  elapsed: 0.783233792
+  rate: 12767.579874796822
+  ...
+ok 13 benchmark finished
+# sum::iterator:dtype=generic,len=100000
+  ---
+  iterations: 10000
+  elapsed: 0.781131917
+  rate: 12801.934964334585
+  ...
+ok 14 benchmark finished
+# sum::iterator:dtype=generic,len=100000
+  ---
+  iterations: 10000
+  elapsed: 0.786015375
+  rate: 12722.397446742058
+  ...
+ok 15 benchmark finished
+# sum::iterator:dtype=generic,len=1000000
+  ---
+  iterations: 1000
+  elapsed: 0.782104834
+  rate: 1278.6009707747185
+  ...
+ok 16 benchmark finished
+# sum::iterator:dtype=generic,len=1000000
+  ---
+  iterations: 1000
+  elapsed: 0.789597
+  rate: 1266.4688442331974
+  ...
+ok 17 benchmark finished
+# sum::iterator:dtype=generic,len=1000000
+  ---
+  iterations: 1000
+  elapsed: 0.790524333
+  rate: 1264.9831994482072
+  ...
+ok 18 benchmark finished
+#
+1..18
+# total 18
+# pass  18
+#
+# ok

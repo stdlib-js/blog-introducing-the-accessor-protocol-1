@@ -1,0 +1,133 @@
+TAP version 13
+# sum::accessor_protocol:dtype=generic,len=10
+  ---
+  iterations: 100000000
+  elapsed: 0.809611958
+  rate: 123515962.19876981
+  ...
+ok 1 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=10
+  ---
+  iterations: 100000000
+  elapsed: 0.798669666
+  rate: 125208210.92509103
+  ...
+ok 2 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=10
+  ---
+  iterations: 100000000
+  elapsed: 0.796399459
+  rate: 125565127.98936997
+  ...
+ok 3 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=100
+  ---
+  iterations: 10000000
+  elapsed: 0.643981583
+  rate: 15528394.38888115
+  ...
+ok 4 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=100
+  ---
+  iterations: 10000000
+  elapsed: 0.645093333
+  rate: 15501632.846669026
+  ...
+ok 5 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=100
+  ---
+  iterations: 10000000
+  elapsed: 0.647753458
+  rate: 15437972.389797727
+  ...
+ok 6 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=1000
+  ---
+  iterations: 1000000
+  elapsed: 0.631704542
+  rate: 1583018.5371692325
+  ...
+ok 7 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=1000
+  ---
+  iterations: 1000000
+  elapsed: 0.689488375
+  rate: 1450350.7763999647
+  ...
+ok 8 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=1000
+  ---
+  iterations: 1000000
+  elapsed: 0.705262125
+  rate: 1417912.5243681562
+  ...
+ok 9 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=10000
+  ---
+  iterations: 100000
+  elapsed: 0.6282555
+  rate: 159170.9105610695
+  ...
+ok 10 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=10000
+  ---
+  iterations: 100000
+  elapsed: 0.6289775
+  rate: 158988.19910092175
+  ...
+ok 11 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=10000
+  ---
+  iterations: 100000
+  elapsed: 0.627260834
+  rate: 159423.3125672884
+  ...
+ok 12 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=100000
+  ---
+  iterations: 10000
+  elapsed: 0.6244225
+  rate: 16014.797673049898
+  ...
+ok 13 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=100000
+  ---
+  iterations: 10000
+  elapsed: 0.625423958
+  rate: 15989.154032375589
+  ...
+ok 14 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=100000
+  ---
+  iterations: 10000
+  elapsed: 0.624777583
+  rate: 16005.695902184763
+  ...
+ok 15 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=1000000
+  ---
+  iterations: 1000
+  elapsed: 0.640950375
+  rate: 1560.1831889091259
+  ...
+ok 16 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=1000000
+  ---
+  iterations: 1000
+  elapsed: 0.632842791
+  rate: 1580.1712751121472
+  ...
+ok 17 benchmark finished
+# sum::accessor_protocol:dtype=generic,len=1000000
+  ---
+  iterations: 1000
+  elapsed: 0.633942375
+  rate: 1577.4304407399807
+  ...
+ok 18 benchmark finished
+#
+1..18
+# total 18
+# pass  18
+#
+# ok

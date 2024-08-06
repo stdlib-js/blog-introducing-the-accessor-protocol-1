@@ -1,0 +1,133 @@
+TAP version 13
+# sum::indexed_collection:dtype=generic,len=10
+  ---
+  iterations: 100000000
+  elapsed: 0.659106334
+  rate: 151720587.16704732
+  ...
+ok 1 benchmark finished
+# sum::indexed_collection:dtype=generic,len=10
+  ---
+  iterations: 100000000
+  elapsed: 0.6594475
+  rate: 151642094.3289648
+  ...
+ok 2 benchmark finished
+# sum::indexed_collection:dtype=generic,len=10
+  ---
+  iterations: 100000000
+  elapsed: 0.65915025
+  rate: 151710478.75655055
+  ...
+ok 3 benchmark finished
+# sum::indexed_collection:dtype=generic,len=100
+  ---
+  iterations: 10000000
+  elapsed: 0.557278416
+  rate: 17944351.894655112
+  ...
+ok 4 benchmark finished
+# sum::indexed_collection:dtype=generic,len=100
+  ---
+  iterations: 10000000
+  elapsed: 0.559454333
+  rate: 17874559.92408946
+  ...
+ok 5 benchmark finished
+# sum::indexed_collection:dtype=generic,len=100
+  ---
+  iterations: 10000000
+  elapsed: 0.560474209
+  rate: 17842034.190729372
+  ...
+ok 6 benchmark finished
+# sum::indexed_collection:dtype=generic,len=1000
+  ---
+  iterations: 1000000
+  elapsed: 0.556498792
+  rate: 1796949.0938266045
+  ...
+ok 7 benchmark finished
+# sum::indexed_collection:dtype=generic,len=1000
+  ---
+  iterations: 1000000
+  elapsed: 0.552213542
+  rate: 1810893.6560632193
+  ...
+ok 8 benchmark finished
+# sum::indexed_collection:dtype=generic,len=1000
+  ---
+  iterations: 1000000
+  elapsed: 0.551998125
+  rate: 1811600.3564323701
+  ...
+ok 9 benchmark finished
+# sum::indexed_collection:dtype=generic,len=10000
+  ---
+  iterations: 100000
+  elapsed: 0.547279792
+  rate: 182721.89374023152
+  ...
+ok 10 benchmark finished
+# sum::indexed_collection:dtype=generic,len=10000
+  ---
+  iterations: 100000
+  elapsed: 0.548077667
+  rate: 182455.89269741214
+  ...
+ok 11 benchmark finished
+# sum::indexed_collection:dtype=generic,len=10000
+  ---
+  iterations: 100000
+  elapsed: 0.547677041
+  rate: 182589.35926437713
+  ...
+ok 12 benchmark finished
+# sum::indexed_collection:dtype=generic,len=100000
+  ---
+  iterations: 10000
+  elapsed: 0.547682959
+  rate: 18258.738629112617
+  ...
+ok 13 benchmark finished
+# sum::indexed_collection:dtype=generic,len=100000
+  ---
+  iterations: 10000
+  elapsed: 0.54956175
+  rate: 18196.317338315486
+  ...
+ok 14 benchmark finished
+# sum::indexed_collection:dtype=generic,len=100000
+  ---
+  iterations: 10000
+  elapsed: 0.547952167
+  rate: 18249.768140801967
+  ...
+ok 15 benchmark finished
+# sum::indexed_collection:dtype=generic,len=1000000
+  ---
+  iterations: 1000
+  elapsed: 0.578598291
+  rate: 1728.3148179917455
+  ...
+ok 16 benchmark finished
+# sum::indexed_collection:dtype=generic,len=1000000
+  ---
+  iterations: 1000
+  elapsed: 0.567571291
+  rate: 1761.8932032980504
+  ...
+ok 17 benchmark finished
+# sum::indexed_collection:dtype=generic,len=1000000
+  ---
+  iterations: 1000
+  elapsed: 0.566649209
+  rate: 1764.7602504638808
+  ...
+ok 18 benchmark finished
+#
+1..18
+# total 18
+# pass  18
+#
+# ok

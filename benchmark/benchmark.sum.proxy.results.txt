@@ -1,0 +1,133 @@
+TAP version 13
+# sum::proxy:dtype=generic,len=10
+  ---
+  iterations: 100000
+  elapsed: 0.108223042
+  rate: 924017.6412708857
+  ...
+ok 1 benchmark finished
+# sum::proxy:dtype=generic,len=10
+  ---
+  iterations: 100000
+  elapsed: 0.108307333
+  rate: 923298.5175620564
+  ...
+ok 2 benchmark finished
+# sum::proxy:dtype=generic,len=10
+  ---
+  iterations: 100000
+  elapsed: 0.10805775
+  rate: 925431.0773637246
+  ...
+ok 3 benchmark finished
+# sum::proxy:dtype=generic,len=100
+  ---
+  iterations: 10000
+  elapsed: 0.105896416
+  rate: 94431.90220904171
+  ...
+ok 4 benchmark finished
+# sum::proxy:dtype=generic,len=100
+  ---
+  iterations: 10000
+  elapsed: 0.106283583
+  rate: 94087.9081955677
+  ...
+ok 5 benchmark finished
+# sum::proxy:dtype=generic,len=100
+  ---
+  iterations: 10000
+  elapsed: 0.106084875
+  rate: 94264.14462947712
+  ...
+ok 6 benchmark finished
+# sum::proxy:dtype=generic,len=1000
+  ---
+  iterations: 1000
+  elapsed: 0.105147
+  rate: 9510.494831046059
+  ...
+ok 7 benchmark finished
+# sum::proxy:dtype=generic,len=1000
+  ---
+  iterations: 1000
+  elapsed: 0.104699542
+  rate: 9551.14015684997
+  ...
+ok 8 benchmark finished
+# sum::proxy:dtype=generic,len=1000
+  ---
+  iterations: 1000
+  elapsed: 0.105411917
+  rate: 9486.593437058924
+  ...
+ok 9 benchmark finished
+# sum::proxy:dtype=generic,len=10000
+  ---
+  iterations: 100
+  elapsed: 0.10526725
+  rate: 949.9630701856465
+  ...
+ok 10 benchmark finished
+# sum::proxy:dtype=generic,len=10000
+  ---
+  iterations: 100
+  elapsed: 0.1054105
+  rate: 948.6720962332975
+  ...
+ok 11 benchmark finished
+# sum::proxy:dtype=generic,len=10000
+  ---
+  iterations: 100
+  elapsed: 0.105279292
+  rate: 949.8544120148529
+  ...
+ok 12 benchmark finished
+# sum::proxy:dtype=generic,len=100000
+  ---
+  iterations: 10
+  elapsed: 0.124154833
+  rate: 80.54458902940975
+  ...
+ok 13 benchmark finished
+# sum::proxy:dtype=generic,len=100000
+  ---
+  iterations: 10
+  elapsed: 0.124927125
+  rate: 80.04666720698167
+  ...
+ok 14 benchmark finished
+# sum::proxy:dtype=generic,len=100000
+  ---
+  iterations: 10
+  elapsed: 0.134013542
+  rate: 74.61932466496556
+  ...
+ok 15 benchmark finished
+# sum::proxy:dtype=generic,len=1000000
+  ---
+  iterations: 10
+  elapsed: 1.256885917
+  rate: 7.956171570343087
+  ...
+ok 16 benchmark finished
+# sum::proxy:dtype=generic,len=1000000
+  ---
+  iterations: 10
+  elapsed: 1.251136584
+  rate: 7.9927324705261755
+  ...
+ok 17 benchmark finished
+# sum::proxy:dtype=generic,len=1000000
+  ---
+  iterations: 10
+  elapsed: 1.251281042
+  rate: 7.991809724869147
+  ...
+ok 18 benchmark finished
+#
+1..18
+# total 18
+# pass  18
+#
+# ok

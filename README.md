@@ -1,6 +1,6 @@
-# {{TODO:title}}
+# The Accessor Protocol
 
-> Source code for the blog post ["{{TODO:title}}"][post].
+> Source code for the blog post ["The Accessor Protocol"][post].
 
 ## License
 
@@ -14,4 +14,4 @@ Copyright © 2024. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
-[license]: https://raw.githubusercontent.com/stdlib-js/blog-calling-fortran-from-nodejs-1/main/LICENSE
+[license]: https://raw.githubusercontent.com/stdlib-js/blog-introducing-the-accessor-protocol-1/main/LICENSE

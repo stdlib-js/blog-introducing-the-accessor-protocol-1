@@ -1,0 +1,133 @@
+TAP version 13
+# sum::property_accessors:dtype=generic,len=10
+  ---
+  iterations: 1000000
+  elapsed: 0.8361295
+  rate: 1195986.9852696264
+  ...
+ok 1 benchmark finished
+# sum::property_accessors:dtype=generic,len=10
+  ---
+  iterations: 1000000
+  elapsed: 0.830543792
+  rate: 1204030.431185259
+  ...
+ok 2 benchmark finished
+# sum::property_accessors:dtype=generic,len=10
+  ---
+  iterations: 1000000
+  elapsed: 0.821753958
+  rate: 1216909.2588660219
+  ...
+ok 3 benchmark finished
+# sum::property_accessors:dtype=generic,len=100
+  ---
+  iterations: 100000
+  elapsed: 0.785157084
+  rate: 127363.04879343101
+  ...
+ok 4 benchmark finished
+# sum::property_accessors:dtype=generic,len=100
+  ---
+  iterations: 100000
+  elapsed: 0.776283542
+  rate: 128818.91034603435
+  ...
+ok 5 benchmark finished
+# sum::property_accessors:dtype=generic,len=100
+  ---
+  iterations: 100000
+  elapsed: 0.795228542
+  rate: 125750.01363570272
+  ...
+ok 6 benchmark finished
+# sum::property_accessors:dtype=generic,len=1000
+  ---
+  iterations: 10000
+  elapsed: 0.8134715
+  rate: 12292.99366972291
+  ...
+ok 7 benchmark finished
+# sum::property_accessors:dtype=generic,len=1000
+  ---
+  iterations: 10000
+  elapsed: 0.801969208
+  rate: 12469.30667692169
+  ...
+ok 8 benchmark finished
+# sum::property_accessors:dtype=generic,len=1000
+  ---
+  iterations: 10000
+  elapsed: 0.806053209
+  rate: 12406.128886213515
+  ...
+ok 9 benchmark finished
+# sum::property_accessors:dtype=generic,len=10000
+  ---
+  iterations: 1000
+  elapsed: 0.850204875
+  rate: 1176.187092552251
+  ...
+ok 10 benchmark finished
+# sum::property_accessors:dtype=generic,len=10000
+  ---
+  iterations: 1000
+  elapsed: 0.859451084
+  rate: 1163.5333512477134
+  ...
+ok 11 benchmark finished
+# sum::property_accessors:dtype=generic,len=10000
+  ---
+  iterations: 1000
+  elapsed: 0.854573667
+  rate: 1170.1741331563871
+  ...
+ok 12 benchmark finished
+# sum::property_accessors:dtype=generic,len=100000
+  ---
+  iterations: 10
+  elapsed: 0.12345675
+  rate: 81.00002632500855
+  ...
+ok 13 benchmark finished
+# sum::property_accessors:dtype=generic,len=100000
+  ---
+  iterations: 10
+  elapsed: 0.120624209
+  rate: 82.90209803572681
+  ...
+ok 14 benchmark finished
+# sum::property_accessors:dtype=generic,len=100000
+  ---
+  iterations: 10
+  elapsed: 0.13317625
+  rate: 75.08846359617425
+  ...
+ok 15 benchmark finished
+# sum::property_accessors:dtype=generic,len=1000000
+  ---
+  iterations: 10
+  elapsed: 2.010367333
+  rate: 4.974215326647471
+  ...
+ok 16 benchmark finished
+# sum::property_accessors:dtype=generic,len=1000000
+  ---
+  iterations: 10
+  elapsed: 1.8793126249999998
+  rate: 5.321094461332638
+  ...
+ok 17 benchmark finished
+# sum::property_accessors:dtype=generic,len=1000000
+  ---
+  iterations: 10
+  elapsed: 1.902467917
+  rate: 5.256330427778773
+  ...
+ok 18 benchmark finished
+#
+1..18
+# total 18
+# pass  18
+#
+# ok
