@@ -10,7 +10,7 @@ See [LICENSE][license].
 
 Copyright © 2024. The Stdlib [Authors][stdlib-authors].
 
-[post]: https://blog.stdlib.io/{{TODO:url}}/
+[post]: https://blog.stdlib.io/introducing-the-accessor-protocol-for-array-like-objects/
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
